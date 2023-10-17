@@ -1322,5 +1322,9 @@ strong {
   .hero-image {
     min-width: inherit;
   }
+
+  #ahmedsa3dlaptopdelete {
+    display:none;
+  }
 }
 
